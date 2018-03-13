@@ -10,7 +10,7 @@ A ski shop application built with MEAN stack.
 * Clone the repository: `git clone git@github.com:mmingzhang/mean-ski-shop`
 * Install dependencies: `npm install`
 * Import server/db/products-ski.json file to MongoDB:
-  MongoDB is running on the default port (27017).
+
   `mongoimport -d meanskishop -c skiproducts --file products-ski.json`
 
 ## Usage 
