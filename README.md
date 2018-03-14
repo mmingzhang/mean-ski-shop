@@ -13,8 +13,7 @@ A ski shop application built with MEAN stack.
 
   `mongoimport -d meanskishop -c skiproducts --file products-ski.json`
 
-## Usage 
-* Start server: `npm start`
+## Running The Application 
 
-  then navigate to http://localhost:8800 to view the app.
+  `npm start`
 
