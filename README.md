@@ -1,4 +1,4 @@
-# Ski Shop app using MEAN Stack
+# Ski Shop App Using MEAN Stack
 
 A ski shop application built with MEAN stack.
 
