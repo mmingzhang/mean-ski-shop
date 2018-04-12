@@ -16,4 +16,6 @@ A ski shop application built with MEAN stack.
 ## Running The Application 
 
   `npm start`
+   Navigate to http://localhost:8800
+
 
